@@ -1,16 +1,16 @@
 # Estructura de un Proyecto en Ada  
 
-/Proyecto_Ada
-├── /src         -- Carpeta para los archivos fuente (.ads y .adb)
-│   ├── main.adb -- Archivo principal del programa
-│   ├── paquete.ads -- Especificación de un paquete
-│   ├── paquete.adb -- Implementación del paquete
-│   ├── utilidades.ads -- Especificación de utilidades
-│   ├── utilidades.adb -- Implementación de utilidades
-├── /obj         -- Carpeta para los archivos objeto (.o) y binarios intermedios
-├── /bin         -- Carpeta para los ejecutables finales
-├── proyecto.gpr -- Archivo de proyecto GNAT
-└── README.md    -- Descripción del proyecto
+/Proyecto_Ada  
+├── /src         -- Carpeta para los archivos fuente (.ads y .adb)  
+│   ├── main.adb -- Archivo principal del programa  
+│   ├── paquete.ads -- Especificación de un paquete  
+│   ├── paquete.adb -- Implementación del paquete  
+│   ├── utilidades.ads -- Especificación de utilidades  
+│   ├── utilidades.adb -- Implementación de utilidades  
+├── /obj         -- Carpeta para los archivos objeto (.o) y binarios intermedios  
+├── /bin         -- Carpeta para los ejecutables finales  
+├── proyecto.gpr -- Archivo de proyecto GNAT  
+└── README.md    -- Descripción del proyecto  
 
 ## Descripción de las Carpetas
 
