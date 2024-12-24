@@ -67,5 +67,3 @@ gnatmake -o bin/programa src/main.adb -I src -o obj
 2. Separación de Interfaz y Lógica: Usa .ads para definir interfaces y .adb para implementaciones.
 
 3. Uso de Carpetas: Separa los artefactos intermedios (.o) y el ejecutable final en carpetas específicas.
-
-4. Documentación: Incluye un archivo README.md con instrucciones claras sobre el uso y compilación del proyecto.
