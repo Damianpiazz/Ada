@@ -1,4 +1,4 @@
-# Estructura de un Proyecto en Ada
+# Estructura de un Proyecto en Ada  
 
 /Proyecto_Ada
 ├── /src         -- Carpeta para los archivos fuente (.ads y .adb)
